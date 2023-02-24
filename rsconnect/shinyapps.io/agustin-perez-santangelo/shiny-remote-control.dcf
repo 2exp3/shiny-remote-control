@@ -1,0 +1,13 @@
+name: shiny-remote-control
+title: shiny-remote-control
+username:
+account: agustin-perez-santangelo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8398614
+bundleId: 6881394
+url: https://agustin-perez-santangelo.shinyapps.io/shiny-remote-control/
+when: 1677198467.70951
+lastSyncTime: 1677198467.70951
+asMultiple: FALSE
+asStatic: FALSE
